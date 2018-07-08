@@ -1,0 +1,15 @@
+
+# c files
+*.out
+
+# cmake files
+*.cmake
+*/CMakeFiles
+Makefile
+CMakeCache.txt
+
+# idea files
+*.pyc
+
+# vscode files
+*/.vscode
